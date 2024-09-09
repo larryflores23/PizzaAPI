@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzaNet.Application/1.0.0": {
+        "dependencies": {
+          "PizzaNet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaNet.Application.dll": {}
+        }
+      },
+      "PizzaNet.Domain/1.0.0": {
+        "runtime": {
+          "PizzaNet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaNet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

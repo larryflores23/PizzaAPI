@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fvU5uXISQEgc5UdNGZbu48S/eFATDRSjLaiDMGeWoBc=",
+  "Source": "PizzaNet.Api",
+  "BasePath": "_content/PizzaNet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

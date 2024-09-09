@@ -1,0 +1,17 @@
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Infrastructure.deps.json
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Infrastructure.runtimeconfig.json
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Infrastructure.dll
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Infrastructure.pdb
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Domain.dll
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\bin\Debug\net6.0\PizzaNet.Domain.pdb
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.csproj.AssemblyReference.cache
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.AssemblyInfoInputs.cache
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.AssemblyInfo.cs
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.csproj.CopyComplete
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.dll
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\refint\PizzaNet.Infrastructure.dll
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.pdb
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\PizzaNet.Infrastructure.genruntimeconfig.cache
+C:\PizzaNetApi\PizzaNet.Api\PizzaNet.Infrastructure\obj\Debug\net6.0\ref\PizzaNet.Infrastructure.dll
